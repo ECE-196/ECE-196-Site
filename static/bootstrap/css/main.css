@@ -1,0 +1,16 @@
+.main_body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("images/Phone Background IMAGE.png")
+}
+.centered_img {
+    display: block;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+.centered_div {
+    background-color: #000000;
+    max-width: 50%;
+    margin: auto;
+    padding: 20px;
+}

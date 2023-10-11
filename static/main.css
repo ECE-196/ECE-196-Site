@@ -23,8 +23,6 @@ body {
     
 }
 
-
-
 .selections {
     display: flex;
     align-items: center;
@@ -34,6 +32,7 @@ body {
 }
 
 #home, #hover, #about {
+
     font-family: 'SF-Pro', 'sans-serif';
     font-size: 1.5rem;
     font-weight: bolder;
@@ -69,7 +68,6 @@ body {
 .ECE196Text {
     line-height: 0;
 }
-
 
 
 /* Text Information
@@ -140,7 +138,6 @@ svg {
     justify-content: center;
     align-items: center;
 }
-
 /* Text Information */
 
 .infocontainer {

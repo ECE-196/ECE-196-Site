@@ -19,9 +19,10 @@ body {
 
 .navbar {
     background-color: #00629b;
-    /* border: 1px solid red; */
     
 }
+
+
 
 .selections {
     display: flex;
@@ -32,7 +33,6 @@ body {
 }
 
 #home, #hover, #about {
-
     font-family: 'SF-Pro', 'sans-serif';
     font-size: 1.5rem;
     font-weight: bolder;
@@ -70,6 +70,7 @@ body {
 }
 
 
+
 /* Text Information
 
 /* NEW */
@@ -81,7 +82,7 @@ body {
     position: absolute;
     background-color: #00629b;
     display: none;
-    /* z-index: -1; */
+    z-index: 1;
     
 }
 
@@ -134,10 +135,12 @@ svg {
 }
 
 .flex {
+
     display: flex;
     justify-content: center;
     align-items: center;
 }
+
 /* Text Information */
 
 .infocontainer {
@@ -197,8 +200,7 @@ svg {
     font-family: 'SF-Pro', 'sans-serif';
     font-size: 1rem;
     line-height: 1.7rem;
-    padding-left: 1rem;
-    border-left: 10px solid #00629b;
+    /* border: 1px solid red; */
 }
 
 .Navigate {
@@ -248,7 +250,10 @@ svg {
 
 .roundImg {
     border-radius: 1rem;
-    width: 50%;
+    width: 30%;
 }
+
+
+
 
 
